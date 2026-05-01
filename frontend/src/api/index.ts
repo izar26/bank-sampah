@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://api-bank-sampah.smakniscyjr.sch.id/api/v1";
+const API_BASE_URL = "https://api-bank-sampah.smakniscjr.sch.id/api/v1";
 
 // ── Token Management ──
 export const getAccessToken = (): string | null =>
